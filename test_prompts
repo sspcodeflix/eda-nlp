@@ -1,0 +1,13 @@
+please tell me little bit about the data that we are querying today
+How many distribution centers are there?
+Plot the geographical data of distribution center on map
+what are different sales channels we have ?
+number of users in each country who came via facebook
+can you plot the no of users by country on a bar plot who came via email
+can you tell me how many users are females ?
+what are the years of sales data in our database ?
+can you draw a pie chart depicting sales per year ?
+can you tell me which sales channel has generated the highest leads in 2024 ?
+what is that product which females have purchased a lot of times ?
+can you plot a bar graph showing no of cancelled products by each month thorughout 2023 ?
+write a python code to run the query to find no of cancellations in 2023
